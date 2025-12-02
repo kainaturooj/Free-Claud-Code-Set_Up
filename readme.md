@@ -103,13 +103,21 @@ Save and close Notepad once done.
 
 
 ### Another and suitable way to do this.
-1.
+1.Run this on nrmal powershell
 ```powershell
 code .
 ```
 2.Find the .claude-code-router folder.
+
 3.Make a file "config.json" inside that folder.
-4.Copy the config.json code and paste in the file "config.json>"
+
+4.Copy the config.json code and paste in the file "config.json"
+
+
+
+
+
+
 ## 6. Configure Your Environment Variable (API Key)
 
 Run PowerShell as Administrator:  (not necessary)
